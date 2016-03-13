@@ -1,0 +1,28 @@
+name: Hyde Park Mouldings
+favicon: null
+layout_spectrum: 0.06255177222192287
+typography_spectrum: 0.8058455544523895
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.16653432603925467
+  lightness: 0.5622494739945978
+  saturation: 0.24383634026162326
+  rhythmicContrast: 0.507830002810806
+purpose: []
